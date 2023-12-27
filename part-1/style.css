@@ -1,0 +1,56 @@
+
+*{
+    overflow: hidden;
+}
+nav {
+    display: block;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 60px;
+    width: 100vw;
+    background-color: black;
+} 
+
+body{
+    background-color: rgb(241, 241, 223);
+}
+
+#first-h1{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+
+.li-style{
+    display: inline-block;
+    margin-right: 39px;
+}
+
+#parent1{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#h4-des{
+    float: left;
+    margin-left: 15px;
+}
+
+#part2{
+    background-color: white;
+    height: 320px;
+    text-align: center;
+    width: 300px;
+}
+a{
+    color: blue;
+}
+
+footer{
+    text-align: center;
+    margin-top: 80px;
+}
